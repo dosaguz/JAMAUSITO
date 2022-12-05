@@ -3,6 +3,6 @@ def eljamau():
     if p=="":
         print("YEYEYEYE")
     else:
-        print("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+        print("Modificación")
     print("modificado-danie")
 eljamau()
